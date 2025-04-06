@@ -9,9 +9,9 @@ Pranati is a mobile-first web app our team (Nari Zone) has designed to support A
 
 ## 📸 Demo Preview
 
-![Home Page](./screenshots/home1.png)
-![Home Page](./screenshots/home2.png)
-![Home Page](./screenshots/datascan.png)
+![Home Page1](./screenshots/home1.png)
+![Home Page2](./screenshots/home2.png)
+![Data Scan](./screenshots/datascan.png)
 ![Risk Assessment](./screenshots/risk-assessment.png)
 ![Nutrition Plan](./screenshots/nutrition.png)
 
