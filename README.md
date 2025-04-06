@@ -39,5 +39,27 @@ Pranati is a mobile-first web app our team (Nari Zone) has designed to support A
 ---
 
 ## 📁 Folder Structure
+pranati/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   │   └── logos, icons, etc.
+│   ├── components/
+│   │   └── Navbar.jsx, Form.jsx, etc.
+│   ├── pages/
+│   │   └── Home.jsx, RiskAssessment.jsx, NutritionPlan.jsx
+│   ├── services/
+│   │   └── aiUtils.js, ocrUtils.js
+│   ├── ml-models/             # TFLite / XGBoost
+│   ├── i18n/                  # Translations and language support
+│   ├── App.jsx
+│   └── index.js
+├── screenshots/
+│   └── home.png, risk-assessment.png, nutrition.png
+├── README.md
+├── package.json
+└── .gitignore
+
 
 
